@@ -1,1 +1,3 @@
 The code of this work is based on Druggen
+We are uploading the code, but it is really big...
+You can view the code in https://hub.epti.moe/hub/user-redirect/lab/tree/shared/rongchengli/bio/DrugGEN for now
